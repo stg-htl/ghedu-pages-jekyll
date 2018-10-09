@@ -3,7 +3,7 @@ email: r.stropek@htl-perg.ac.at
 description: > # this means to ignore newlines until "baseurl:"
   Sharpen your coding skills in this hackathon.
 baseurl: ""
-url: "https://rstropek.github.io/GitHubEduWorkshop-Jekyll"
+url: "https://stg65.github.io/ghedu-pages-jekyll/"
 twitter_username: rstropek
 github_username:  rstropek
 baseurl: /ghedu-pages-jekyll
